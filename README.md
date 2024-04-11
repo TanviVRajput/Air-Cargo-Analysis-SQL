@@ -44,7 +44,7 @@ Air Cargo, an aviation company, aims to enhance its operational efficiency and c
   
 **g. Check if revenue has crossed 10000:**
 
-- Utilize the IF clause to determine if revenue has crossed 10000 in the ticket_details table.
+- Utilized the IF clause to determine if revenue has crossed 10000 in the ticket_details table.
   
 **h. Create and grant access to a new user:**
 
@@ -52,7 +52,7 @@ Air Cargo, an aviation company, aims to enhance its operational efficiency and c
   
 **i. Find maximum ticket price for each class:**
 
-- Use window functions to find the maximum ticket price for each class in the ticket_details table.
+- Used window functions to find the maximum ticket price for each class in the ticket_details table.
   
 **j. Enhance speed and performance for route ID 4:**
 
@@ -72,7 +72,7 @@ Air Cargo, an aviation company, aims to enhance its operational efficiency and c
   
 # Stored Procedures and Functions:
 
-**Create stored procedures and functions to streamline data retrieval and processing.**
+**Created stored procedures and functions to streamline data retrieval and processing.**
 
 - a. Retrieve passenger details for a range of routes.
   
